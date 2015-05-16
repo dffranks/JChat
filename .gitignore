@@ -1,0 +1,7 @@
+*.class
+**/SINGLEGUI
+**/junk
+*.*~
+/nbproject/private/
+/JChat/nbproject/private/
+/JChat/build/

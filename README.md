@@ -1,0 +1,4 @@
+#Java Chat Program
+
+Instructions:
+Build a CHAT program. That is you will build 2 programs, a client and a server.  The server program will have a JTextField at the bottom and a JTextArea at the top, also a Send Button.  The client program will have the same.  When the client user types in some text in the JTextField and hits the Send button, the text will be delivered to the JTextArea in the Server program.  And vice versa.  You will need to use Sockets and Streams, of course, as well as GUI components and GUI events.  You will also need to use Threads.  One thread for the send direction and one Thread for the receive direction.  Good Luck, and have fun!
